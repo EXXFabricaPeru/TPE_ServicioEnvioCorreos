@@ -1,0 +1,10 @@
+[
+  {
+    "Principal": true,
+    "url": "https://10.10.70.134:50000/b1s/v1",
+    "baseDeDatos": "SBO_TPE_DESARROLLO",
+    "NombreSociedad": "TPE",
+    "usuario": "manager",
+    "contrasena": "m1r1"
+  }
+]

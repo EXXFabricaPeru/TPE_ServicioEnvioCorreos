@@ -1,0 +1,47 @@
+D:\Trabajo\Exxis\ICO FOOD\EXX_WinService\EXX_WinService\bin\Debug\EXX_WinService.exe.config
+D:\Trabajo\Exxis\ICO FOOD\EXX_WinService\EXX_WinService\bin\Debug\EXX_WinService.exe
+D:\Trabajo\Exxis\ICO FOOD\EXX_WinService\EXX_WinService\bin\Debug\EXX_WinService.pdb
+D:\Trabajo\Exxis\ICO FOOD\EXX_WinService\EXX_WinService\bin\Debug\Newtonsoft.Json.dll
+D:\Trabajo\Exxis\ICO FOOD\EXX_WinService\EXX_WinService\bin\Debug\RestSharp.dll
+D:\Trabajo\Exxis\ICO FOOD\EXX_WinService\EXX_WinService\bin\Debug\Newtonsoft.Json.xml
+D:\Trabajo\Exxis\ICO FOOD\EXX_WinService\EXX_WinService\bin\Debug\RestSharp.xml
+D:\Trabajo\Exxis\ICO FOOD\EXX_WinService\EXX_WinService\obj\Debug\EXX_WinService.csproj.AssemblyReference.cache
+D:\Trabajo\Exxis\ICO FOOD\EXX_WinService\EXX_WinService\obj\Debug\EXX_WinService.csproj.SuggestedBindingRedirects.cache
+D:\Trabajo\Exxis\ICO FOOD\EXX_WinService\EXX_WinService\obj\Debug\EXX_WinService.csproj.CoreCompileInputs.cache
+D:\Trabajo\Exxis\ICO FOOD\EXX_WinService\EXX_WinService\obj\Debug\EXX_WinService.csproj.CopyComplete
+D:\Trabajo\Exxis\ICO FOOD\EXX_WinService\EXX_WinService\obj\Debug\EXX_WinService.exe
+D:\Trabajo\Exxis\ICO FOOD\EXX_WinService\EXX_WinService\obj\Debug\EXX_WinService.pdb
+D:\Trabajo\Exxis\ICO FOOD\EXX_WinService\EXX_WinService\bin\Debug\SetupFields\Config.json
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\SetupFields\Config.json
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\EXX_WinService.exe.config
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\EXX_WinService.exe
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\EXX_WinService.pdb
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\BouncyCastle.Cryptography.dll
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\Newtonsoft.Json.dll
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\Renci.SshNet.dll
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\RestSharp.dll
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\System.Buffers.dll
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\System.Formats.Asn1.dll
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\System.Memory.dll
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\System.Numerics.Vectors.dll
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\System.ValueTuple.dll
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\BouncyCastle.Cryptography.xml
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\Newtonsoft.Json.xml
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\Renci.SshNet.xml
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\RestSharp.xml
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\System.Buffers.xml
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\System.Formats.Asn1.xml
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\System.Memory.xml
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\System.Numerics.Vectors.xml
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\EXXIS_DEV\EXX_WinService\bin\Debug\System.ValueTuple.xml
+C:\EXXIS_DEV\EXX_WinService\obj\Debug\EXX_WinService.csproj.AssemblyReference.cache
+C:\EXXIS_DEV\EXX_WinService\obj\Debug\EXX_WinService.csproj.CoreCompileInputs.cache
+C:\EXXIS_DEV\EXX_WinService\obj\Debug\EXX_WinS.ABF8B246.Up2Date
+C:\EXXIS_DEV\EXX_WinService\obj\Debug\EXX_WinService.exe
+C:\EXXIS_DEV\EXX_WinService\obj\Debug\EXX_WinService.pdb

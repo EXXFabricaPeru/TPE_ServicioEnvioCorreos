@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\EXXIS_DEV\\WinService\\EXX_WinService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F77FF5C4-664B-478C-A45A-6A6C8FEC80D5}|EXX_WinService.csproj|C:\\EXXIS_DEV\\WinService\\EXX_WinService\\core\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77FF5C4-664B-478C-A45A-6A6C8FEC80D5}|EXX_WinService.csproj|solutionrelative:core\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|EXX_WinService||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77FF5C4-664B-478C-A45A-6A6C8FEC80D5}|EXX_WinService.csproj|C:\\EXXIS_DEV\\WinService\\EXX_WinService\\core\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77FF5C4-664B-478C-A45A-6A6C8FEC80D5}|EXX_WinService.csproj|solutionrelative:core\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77FF5C4-664B-478C-A45A-6A6C8FEC80D5}|EXX_WinService.csproj|C:\\EXXIS_DEV\\WinService\\EXX_WinService\\functionality\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77FF5C4-664B-478C-A45A-6A6C8FEC80D5}|EXX_WinService.csproj|solutionrelative:functionality\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77FF5C4-664B-478C-A45A-6A6C8FEC80D5}|EXX_WinService.csproj|C:\\EXXIS_DEV\\WinService\\EXX_WinService\\functionality\\notacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77FF5C4-664B-478C-A45A-6A6C8FEC80D5}|EXX_WinService.csproj|solutionrelative:functionality\\notacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77FF5C4-664B-478C-A45A-6A6C8FEC80D5}|EXX_WinService.csproj|C:\\EXXIS_DEV\\WinService\\EXX_WinService\\functionality\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77FF5C4-664B-478C-A45A-6A6C8FEC80D5}|EXX_WinService.csproj|solutionrelative:functionality\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77FF5C4-664B-478C-A45A-6A6C8FEC80D5}|EXX_WinService.csproj|C:\\EXXIS_DEV\\WinService\\EXX_WinService\\framework\\servicelayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77FF5C4-664B-478C-A45A-6A6C8FEC80D5}|EXX_WinService.csproj|solutionrelative:framework\\servicelayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77FF5C4-664B-478C-A45A-6A6C8FEC80D5}|EXX_WinService.csproj|C:\\EXXIS_DEV\\WinService\\EXX_WinService\\entities\\sap\\oinv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77FF5C4-664B-478C-A45A-6A6C8FEC80D5}|EXX_WinService.csproj|solutionrelative:entities\\sap\\oinv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77FF5C4-664B-478C-A45A-6A6C8FEC80D5}|EXX_WinService.csproj|C:\\EXXIS_DEV\\WinService\\EXX_WinService\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77FF5C4-664B-478C-A45A-6A6C8FEC80D5}|EXX_WinService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77FF5C4-664B-478C-A45A-6A6C8FEC80D5}|EXX_WinService.csproj|C:\\EXXIS_DEV\\WinService\\EXX_WinService\\functionality\\guiaremision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77FF5C4-664B-478C-A45A-6A6C8FEC80D5}|EXX_WinService.csproj|solutionrelative:functionality\\guiaremision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77FF5C4-664B-478C-A45A-6A6C8FEC80D5}|EXX_WinService.csproj|c:\\exxis_dev\\winservice\\exx_winservice\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EXX_WinService",
+              "DocumentMoniker": "C:\\EXXIS_DEV\\WinService\\EXX_WinService\\EXX_WinService.csproj",
+              "RelativeDocumentMoniker": "EXX_WinService.csproj",
+              "ToolTip": "C:\\EXXIS_DEV\\WinService\\EXX_WinService\\EXX_WinService.csproj",
+              "RelativeToolTip": "EXX_WinService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-14T17:51:29.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Globals.cs",
+              "DocumentMoniker": "C:\\EXXIS_DEV\\WinService\\EXX_WinService\\Core\\Globals.cs",
+              "RelativeDocumentMoniker": "Core\\Globals.cs",
+              "ToolTip": "C:\\EXXIS_DEV\\WinService\\EXX_WinService\\Core\\Globals.cs",
+              "RelativeToolTip": "Core\\Globals.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAQwHgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:46:01.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OINV.cs",
+              "DocumentMoniker": "C:\\EXXIS_DEV\\WinService\\EXX_WinService\\Entities\\SAP\\OINV.cs",
+              "RelativeDocumentMoniker": "Entities\\SAP\\OINV.cs",
+              "ToolTip": "C:\\EXXIS_DEV\\WinService\\EXX_WinService\\Entities\\SAP\\OINV.cs",
+              "RelativeToolTip": "Entities\\SAP\\OINV.cs",
+              "ViewState": "AgIAAMABAAAAAAAAAAA5wNcBAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:07:46.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\EXXIS_DEV\\WinService\\EXX_WinService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\EXXIS_DEV\\WinService\\EXX_WinService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:53:26.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\EXXIS_DEV\\WinService\\EXX_WinService\\Core\\Main.cs",
+              "RelativeDocumentMoniker": "Core\\Main.cs",
+              "ToolTip": "C:\\EXXIS_DEV\\WinService\\EXX_WinService\\Core\\Main.cs",
+              "RelativeToolTip": "Core\\Main.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAApwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:41:48.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\EXXIS_DEV\\WinService\\EXX_WinService\\Functionality\\Config.cs",
+              "RelativeDocumentMoniker": "Functionality\\Config.cs",
+              "ToolTip": "C:\\EXXIS_DEV\\WinService\\EXX_WinService\\Functionality\\Config.cs",
+              "RelativeToolTip": "Functionality\\Config.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T14:44:02.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotaCredito.cs",
+              "DocumentMoniker": "C:\\EXXIS_DEV\\WinService\\EXX_WinService\\Functionality\\NotaCredito.cs",
+              "RelativeDocumentMoniker": "Functionality\\NotaCredito.cs",
+              "ToolTip": "C:\\EXXIS_DEV\\WinService\\EXX_WinService\\Functionality\\NotaCredito.cs",
+              "RelativeToolTip": "Functionality\\NotaCredito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T22:40:01.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\EXXIS_DEV\\WinService\\EXX_WinService\\Functionality\\Factura.cs",
+              "RelativeDocumentMoniker": "Functionality\\Factura.cs",
+              "ToolTip": "C:\\EXXIS_DEV\\WinService\\EXX_WinService\\Functionality\\Factura.cs",
+              "RelativeToolTip": "Functionality\\Factura.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAewFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:34:12.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GuiaRemision.cs",
+              "DocumentMoniker": "C:\\EXXIS_DEV\\WinService\\EXX_WinService\\Functionality\\GuiaRemision.cs",
+              "RelativeDocumentMoniker": "Functionality\\GuiaRemision.cs",
+              "ToolTip": "C:\\EXXIS_DEV\\WinService\\EXX_WinService\\Functionality\\GuiaRemision.cs",
+              "RelativeToolTip": "Functionality\\GuiaRemision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:57:28.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceLayer.cs",
+              "DocumentMoniker": "C:\\EXXIS_DEV\\WinService\\EXX_WinService\\Framework\\ServiceLayer.cs",
+              "RelativeDocumentMoniker": "Framework\\ServiceLayer.cs",
+              "ToolTip": "C:\\EXXIS_DEV\\WinService\\EXX_WinService\\Framework\\ServiceLayer.cs",
+              "RelativeToolTip": "Framework\\ServiceLayer.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:57:28.369Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
